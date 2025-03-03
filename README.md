@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://www.treadstone.design/" target="blank"><img src="https://www.treadstone.design/logo.png" width="120" alt="Treadstone Logo" /></a>
+  <a href="https://www.treadstone.design/" target="_blank"><img src="https://www.treadstone.design/logo.png" width="120" alt="Treadstone Logo" /></a>
 </p>
 
 <h3 align="center">轻量低代码应用开发框架</h3>
 <p align="center">
-  <a href="https://www.treadstone.design/" target="blank" >官方网站</a>
-  <a href="https://docs.treadstone.design/" target="blank" >官方文档</a>
+  <a href="https://www.treadstone.design/" target="_blank" >官方网站</a>
+  <a href="https://docs.treadstone.design/" target="_blank" >官方文档</a>
 </p>
 
 # 介绍
@@ -71,7 +71,6 @@ cd treadstone-standard && npm install
 
 - 将 DATABASE_URL、REDIS_URL 分别改为你的 MySQL、Redis 数据库链接地址；   
 - JWT_SECRET 是 JWT 密钥，安装时会随机初始化一个，建议自行更换。如果使用Treadstone提供的单点登录、统一鉴权，请保证其他需要鉴权的后端应用 JWT 密钥与Treadstone的 JWT 密钥一致。  
-- 组织密钥获取方式参考<a target="_blank" href="/docs/org-secret">获取组织密钥</a>。  
 
 ```bash title=".env"
 # MySQL
@@ -135,4 +134,4 @@ stone createsuperuser
 #### 10. 浏览器打开私有化部署后的 treadstone，使用刚才初始化的管理员账号登录即可。默认：<a target="__blank" href="http://localhost:9000">http://localhost:9000</a>
 
 
-更多详情请查看<a href="https://docs.treadstone.design/" target="blank" align="center">官方文档</a>
+更多详情请查看<a href="https://docs.treadstone.design/" target="_blank">官方文档</a>
