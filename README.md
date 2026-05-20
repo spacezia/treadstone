@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.treadstone.design/" target="_blank"><img src="https://www.treadstone.design/logo.png" width="120" alt="Treadstone Logo" /></a>
+  <a href="https://www.spacezia.com/" target="_blank"><img src="https://www.spacezia.com/logo.png" width="120" alt="Treadstone Logo" /></a>
 </p>
 
 <h2 align="center">Treadstone Studio</h3>
